@@ -3,6 +3,9 @@
     min-height: 100vh;
     flex-direction: column;
 }
+
+
+
 /*gallery start*/
 div.img {
     margin: 5px;
@@ -25,7 +28,7 @@ body {
     align-items: center ;
     background: #222 ;
     color: white ;
-
+}
 .body > .main {
     flex: 1;
 }
@@ -54,7 +57,7 @@ div.desc {
     text-align: center;
 }
 /*gallery end*/
-}
+
 
 header {
     height: 20vh ;
